@@ -8,9 +8,9 @@
 5. ts-node-dev
 
 ## 🤖 Comandos
-`build` - Compila e executa o arquivo typescript para a pasta ./dir
+`build` - Compila e executa o projeto typescript para a pasta ./dir
 
-`dev:server` - Executa o arquivo typescript em modo de desenvolvimento, porém sem transpilar para javascript.
+`dev:server` - Executa o projeto typescript em modo de desenvolvimento.
 
 ## 📌 Como executar
 É necessário ter o node instalado na máquina.
