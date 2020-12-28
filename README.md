@@ -6,6 +6,7 @@
 3. eslint
 4. prettier
 5. ts-node-dev
+6. git-commit-msg-linter
 
 ## 🤖 Comandos
 `build` - Compila e executa o projeto typescript para a pasta ./dir
